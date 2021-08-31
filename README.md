@@ -1,4 +1,4 @@
-# Bachelor of Math - National University of Engineering (Peru)
+# Bachelor of Mathemathics - National University of Engineering (Peru)
 
 [Licenciatura en Matemática, Universidad Nacional de Ingeniería, 2019.](http://cybertesis.uni.edu.pe/handle/uni/19035)
 
